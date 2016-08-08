@@ -1,0 +1,25 @@
+_repo: Seaward-SussexThe-South-Downs-from-End-to-End_12585
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Edric
+    birthdate: 1873
+    gutenberg_agent_id: '3969'
+    url: http://www.gutenberg.org/2009/agents/3969
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sussex (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: 'Seaward Sussex
+
+  The South Downs from End to End'
+url: http://www.gutenberg.org/ebooks/12585
